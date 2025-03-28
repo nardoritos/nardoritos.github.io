@@ -1,11 +1,11 @@
 # Site settings
-title: Game Systems Developer
+title: Nardoritos
 email: portinexd@gmail.com
 url: https://github.com/nardoritos/
-description: "Leo Putini's Portfolio"
-keywords: "unreal engine developer, programmer, nardoritos"
-skills: "Unreal Engine Developer - Programmer"
-meta_author: Leo Putini
+description: "Nardoritos's Portfolio"
+keywords: "unreal engine developer, programmer, nardoritos, game systems developer"
+skills: "Unreal Engine - Game Systems Developer"
+meta_author: Nardoritos
 
 # Google webmaster tools
 google_verify:
@@ -33,7 +33,6 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
   social: Around the Web
   credits: Credits
 
