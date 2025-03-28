@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2025-03-27
+img: Aura.png
+alt: image-alt
+project-date: March 2025
+client: Leo Putini
+category: Unreal Engine - Gameplay Ability System
+description: This project was created with by following classes related to Unreal Engine's Gameplay Ability System Framework. I've made my own changes and additions to it as neccessary to indicate the closest possible of a finished product.
+---
