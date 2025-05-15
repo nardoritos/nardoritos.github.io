@@ -7,5 +7,5 @@ alt: image-alt
 project-date: March 2025
 client: Leo Putini
 category: Unreal Engine - Gameplay Ability System
-description: This project was created with by following classes related to Unreal Engine's Gameplay Ability System Framework. I've made my own changes and additions to it as neccessary to indicate the closest possible of a finished product. <br>The project files are available for download at <a href="https://github.com/nardoritos/Aura">Github</a> and a packaged version is available at <a href="https://nardoritos.itch.io/aura">itch.io<a>
+description: This project was created with by following classes related to Unreal Engine's Gameplay Ability System Framework. I've made my own changes and additions to it as neccessary to indicate the closest possible of a finished product. <br>The project files are available for download at <a href="https://github.com/nardoritos/Aura">Github</a> and a packaged version is available at <a href="https://nardoritos.itch.io/aura">itch.io</a>
 ---
