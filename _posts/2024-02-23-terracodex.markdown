@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2024-02-23
-img: TerraCodex.jpg
+img: TerraCodex.png
 alt: image-alt
 project-date: February 2024
 client: Webcore Games
