@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2026-09-18
+img: Execute.gif
+alt: image-alt
+project-date: September 2026
+client: Leo Putini - Miracula Works
+category: Unreal Engine
+description: This game is a tactical FPS where you record your actions in different places, at the same time, before seeing them in action, all at once. <br>You can play it available on <a href="https://nardoritos.itch.io/execute">itch.io</a>
+---
